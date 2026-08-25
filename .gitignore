@@ -36,6 +36,10 @@ yarn-error.log*
 # vercel
 .vercel
 
+# local development data
+/data/shoppos.json
+/data/shoppos.sqlite*
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
