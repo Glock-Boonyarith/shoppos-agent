@@ -1,1 +1,1 @@
-# marketpos-agent
+# shoppos-agent
